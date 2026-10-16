@@ -4,7 +4,7 @@ A macOS menu bar + notch app for switching Claude Code between several Claude ac
 (e.g. personal / job / company) in one click, with live 5-hour and weekly usage for each.
 
 <p align="center">
-  <img src="docs/demo.svg" alt="Hovering the notch shows each account's usage; clicking Work switches Claude Code to it, and claude-switch list confirms Work is active" width="880">
+  <img src="docs/demo.gif" alt="Hovering the notch shows each account's usage; clicking Work switches Claude Code to it, and claude-switch list confirms Work is active" width="880">
 </p>
 
 - **One-click switching** from the menu bar or the notch, no browser login after the first time
